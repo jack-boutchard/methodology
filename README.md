@@ -1,1 +1,1 @@
-# methodology
+# SEO Methodology
