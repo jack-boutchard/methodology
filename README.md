@@ -1,7 +1,11 @@
 # SEO Methodology Skill
+
 ---
-name: seo-methodology
-description: "Apply Exalt Growth's SEO and GEO methodology to any SaaS growth challenge. Combines the Proof of Importance citation model, EGOS operating system, and Entity-First Framework to evaluate content, plan strategy, audit architecture, and optimize for AI search visibility. Use whenever someone is making an SEO or content decision, evaluating a page for AI citation readiness, planning site architecture, assessing keyword strategy, optimizing for LLM visibility, auditing entity infrastructure, building a content brief, or applying structured SEO methodology to a SaaS growth problem. Also triggers on: 'how should I approach this SEO problem', 'evaluate this content', 'is this page ready for AI search', 'audit my site structure', 'how do I get cited by ChatGPT/Perplexity/Gemini', 'what's wrong with my SEO strategy', 'help me think through this content decision', 'GEO readiness check', 'entity audit', 'content evaluation', 'SEO methodology', 'citation optimization', or any reference to PoI signals, EGOS modules, or Entity-First pillars."
+
+**Name**: seo-methodology
+
+**Description**: "Apply Exalt Growth's SEO and GEO methodology to any SaaS growth challenge. Combines the Proof of Importance citation model, EGOS operating system, and Entity-First Framework to evaluate content, plan strategy, audit architecture, and optimize for AI search visibility. Use whenever someone is making an SEO or content decision, evaluating a page for AI citation readiness, planning site architecture, assessing keyword strategy, optimizing for LLM visibility, auditing entity infrastructure, building a content brief, or applying structured SEO methodology to a SaaS growth problem. Also triggers on: 'how should I approach this SEO problem', 'evaluate this content', 'is this page ready for AI search', 'audit my site structure', 'how do I get cited by ChatGPT/Perplexity/Gemini', 'what's wrong with my SEO strategy', 'help me think through this content decision', 'GEO readiness check', 'entity audit', 'content evaluation', 'SEO methodology', 'citation optimization', or any reference to PoI signals, EGOS modules, or Entity-First pillars."
+
 ---
 
 # SEO Methodology
